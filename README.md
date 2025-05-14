@@ -31,7 +31,7 @@ A Python-based GUI application for modifying PlayStation 5 NOR files. This is a 
 ## Project Structure
 
 - `src/main.py`: Application entry point
-- `src/main_window.py`: PyQt6 GUI implementation
+- `src/main_window.py`: GUI implementation
 - `src/uart_handler.py`: UART communication and error handling
 - `src/nor_handler.py`: NOR file operations and validation
 - `src/__init__.py`: Package initialization
